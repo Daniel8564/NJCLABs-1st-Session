@@ -6,7 +6,6 @@ Q&amp;A about Agile, SCRUM and SDLC
 SDLC is software development life cycle which includes necessary steps to develop software or any project. To do SDLC, there are two approaches, the traditional method of waterfall and the Agile/SCRUM method. The phases generally include requirement analysis, design, development, testing and maintenance. 
 
 2)	What is waterfall and why it is still relevant
-
 Waterfall is traditional method of SDLC and includes phases which should be completed sequentially. The phases are Analysis, Design, Development, Testing and Maintenance. The issue with that is each steps should be completed to go forward to the proceeding steps and each step cannot perform in parallel with other steps. In today’s industry if there is a clear plan from initial step, waterfall model can be used. However, client feedback at the final step cannot be implemented as it needs to start from initial step and add to the overall fixed budget.
 
 3)	Explain Agile Model with a use case and the role of SCRUM in that
